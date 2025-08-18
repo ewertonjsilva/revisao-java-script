@@ -1,0 +1,12 @@
+{
+  "name": "revisao-java-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javas-cript", "programação API", "introdução"],
+  "author": "Ewerton",
+  "license": "MIT",
+  "description": "Revisão lógica de programação com java-script"
+}
