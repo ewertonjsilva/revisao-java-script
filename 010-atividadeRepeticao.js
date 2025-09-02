@@ -37,12 +37,16 @@ if (erro.length > 0) {
         console.log(mensagem);
     });
 } else {
-    let cont = 0;
+    let cont = num1;
     if (num1 < num2){
-        cont = num1;
         while (cont <= num2) {
             console.log(cont); 
             cont++;           
+        }
+    } else {
+        while (cont >= num2) {
+            console.log(cont); 
+            cont--;           
         }
     }
 }
